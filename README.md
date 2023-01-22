@@ -56,4 +56,4 @@ Questa meccanica rappresenta il fulcro principale della macchina enigma, in quan
 
 Di seguito una rappresentazione grafica di quanto spiegato:
 
-![Image](CifrarioEnigma/images/example.png)
+![Image](CifrarioEnigma/CifrarioEnigma/images/example.png)
